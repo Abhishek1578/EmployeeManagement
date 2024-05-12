@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": "b725",
+      "firstname": "Abhishek",
+      "lastname": "Chauhan",
+      "email": "abhishekchauhan1578@gmail.com",
+      "dob": "2024-04-17T18:30:00.000Z",
+      "gender": "male",
+      "education": "",
+      "company": "axis",
+      "experience": 12,
+      "package": 23333
+    },
+    {
+      "firstname": "SupriyaAbhishek",
+      "lastname": "ChauhanSharma",
+      "email": "abhi1578@gmail.com",
+      "dob": "2024-04-17T18:30:00.000Z",
+      "gender": "male",
+      "education": "",
+      "company": "microsoft",
+      "experience": 1,
+      "package": 2312,
+      "id": "32b2"
+    }
+  ]
+}
